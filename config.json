@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "BigProjectConnectionString": "server=(localdb)\\ProjectsV13;Database=BigProjectDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}

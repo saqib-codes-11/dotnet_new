@@ -1,0 +1,11 @@
+C:\Users\cemil\Source\Repos\BigProject\BigProject\bin\Debug\netcoreapp2.0\BigProject.deps.json
+C:\Users\cemil\Source\Repos\BigProject\BigProject\bin\Debug\netcoreapp2.0\BigProject.runtimeconfig.json
+C:\Users\cemil\Source\Repos\BigProject\BigProject\bin\Debug\netcoreapp2.0\BigProject.runtimeconfig.dev.json
+C:\Users\cemil\Source\Repos\BigProject\BigProject\bin\Debug\netcoreapp2.0\BigProject.dll
+C:\Users\cemil\Source\Repos\BigProject\BigProject\bin\Debug\netcoreapp2.0\BigProject.pdb
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.csprojResolveAssemblyReference.cache
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.csproj.CoreCompileInputs.cache
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.AssemblyInfoInputs.cache
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.AssemblyInfo.cs
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.dll
+C:\Users\cemil\Source\Repos\BigProject\BigProject\obj\Debug\netcoreapp2.0\BigProject.pdb
